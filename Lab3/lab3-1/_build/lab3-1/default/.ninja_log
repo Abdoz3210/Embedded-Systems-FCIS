@@ -1,0 +1,5 @@
+# ninja log v7
+1	15	1776299233652295391	CMakeFiles/lab3_1_default_default_AVR_GCC_compile.dir/home/abdosalah/Abdos/Embedded_AVR/Lab3/lab3-1/main.c.o	c1826a2f4367dfca
+15	27	1776299233666747524	/home/abdosalah/Abdos/Embedded_AVR/Lab3/lab3-1/out/lab3-1/default.elf	32616f9be96947a9
+0	12	1776353367437338861	CMakeFiles/lab3_1_default_default_AVR_GCC_compile.dir/home/abdosalah/Abdos/Embedded_AVR/Lab3/lab3-1/main.c.o	c1826a2f4367dfca
+12	19	1776353367449338715	/home/abdosalah/Abdos/Embedded_AVR/Lab3/lab3-1/out/lab3-1/default.elf	32616f9be96947a9

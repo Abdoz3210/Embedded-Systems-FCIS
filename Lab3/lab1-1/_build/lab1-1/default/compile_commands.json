@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/abdosalah/Abdos/Embedded_AVR/Lab3/lab1-1/_build/lab1-1/default",
+  "command": "/home/abdosalah/.mplab/app-finder/apps/avr-gcc/v7.3.0/avr8-gnu-toolchain-linux_x86_64/bin/avr-gcc -D__ATmega328P__ -Ddefault=default -I/home/abdosalah/.mchp_packs/Microchip/ATmega_DFP/3.6.299/include -x c -g -gdwarf-2 -mmcu=atmega328p -B/home/abdosalah/.mchp_packs/Microchip/ATmega_DFP/3.6.299/gcc/dev/atmega328p -x c -c -funsigned-char -funsigned-bitfields -O1 -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -Wall -o CMakeFiles/lab1_1_default_default_AVR_GCC_compile.dir/home/abdosalah/Abdos/Embedded_AVR/Lab3/lab1-1/main.c.o -c /home/abdosalah/Abdos/Embedded_AVR/Lab3/lab1-1/main.c",
+  "file": "/home/abdosalah/Abdos/Embedded_AVR/Lab3/lab1-1/main.c",
+  "output": "CMakeFiles/lab1_1_default_default_AVR_GCC_compile.dir/home/abdosalah/Abdos/Embedded_AVR/Lab3/lab1-1/main.c.o"
+}
+]

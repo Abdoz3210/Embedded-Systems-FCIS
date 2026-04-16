@@ -1,0 +1,4 @@
+/home/abdosalah/Abdos/Embedded_AVR/project_text/lab1/_build/lab1/default/CMakeFiles/lab1_default_default_AVR_GCC_compile.dir
+/home/abdosalah/Abdos/Embedded_AVR/project_text/lab1/_build/lab1/default/CMakeFiles/lab1_default_image_HWAoIxfN.dir
+/home/abdosalah/Abdos/Embedded_AVR/project_text/lab1/_build/lab1/default/CMakeFiles/edit_cache.dir
+/home/abdosalah/Abdos/Embedded_AVR/project_text/lab1/_build/lab1/default/CMakeFiles/rebuild_cache.dir

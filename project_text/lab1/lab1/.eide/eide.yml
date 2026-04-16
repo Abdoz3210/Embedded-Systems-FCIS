@@ -1,0 +1,59 @@
+version: "4.1"
+name: lab1
+type: ANY-GCC
+deviceName: null
+packDir: null
+srcDirs: []
+virtualFolder:
+  name: <virtual_root>
+  files: []
+  folders: []
+dependenceList: []
+outDir: build
+miscInfo:
+  uid: f9bc775c2ef6785043c5fcb2bcd72f44
+targets:
+  Debug:
+    cppPreprocessAttrs:
+      defineList: []
+      incList: []
+      libList: []
+    excludeList: []
+    toolchain: ANY_GCC
+    toolchainConfigMap:
+      ANY_GCC:
+        linkerScriptPath: undefined.lds
+        options:
+          version: 2
+          afterBuildTasks: []
+          asm-compiler:
+            ASM_FLAGS: ""
+          beforeBuildTasks: []
+          c/cpp-compiler:
+            CXX_FLAGS: ""
+            C_FLAGS: ""
+            language-c: c11
+            language-cpp: gnu++11
+            one-elf-section-per-data: true
+            one-elf-section-per-function: true
+            signed-char: true
+          global:
+            output-debug-info: enable
+          linker:
+            $disableOutputTask: true
+            LD_FLAGS: ""
+            LIB_FLAGS: ""
+            output-format: elf
+            print-mem-usage: true
+            remove-unused-input-sections: true
+    uploadConfigMap:
+      JLink:
+        baseAddr: ""
+        bin: ""
+        cpuInfo:
+          cpuName: "null"
+          vendor: "null"
+        otherCmds: ""
+        proType: 1
+        speed: 8000
+    uploader: JLink

@@ -1,0 +1,4 @@
+/home/abdosalah/Abdos/Embedded_AVR/Lab3/lab3-2/_build/lab3-2/default/CMakeFiles/lab3_2_default_default_AVR_GCC_compile.dir
+/home/abdosalah/Abdos/Embedded_AVR/Lab3/lab3-2/_build/lab3-2/default/CMakeFiles/lab3_2_default_image_F7tWIQih.dir
+/home/abdosalah/Abdos/Embedded_AVR/Lab3/lab3-2/_build/lab3-2/default/CMakeFiles/edit_cache.dir
+/home/abdosalah/Abdos/Embedded_AVR/Lab3/lab3-2/_build/lab3-2/default/CMakeFiles/rebuild_cache.dir

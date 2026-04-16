@@ -1,0 +1,31 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "AVR: firmware.hex from build/Debug/outDebug",
+      "type": "shell",
+      "command": "avr-objcopy -O ihex -R .eeprom \"${workspaceFolder}/build/Debug/outDebug\" \"${workspaceFolder}/build/Debug/firmware.hex\"",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "focus": false
+      },
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    },
+    {
+      "label": "AVR: main.hex from main.c (project root)",
+      "type": "shell",
+      "command": "avr-gcc -mmcu=atmega328p -DF_CPU=16000000UL -Os -Wall -Wextra -o \"${workspaceFolder}/main.elf\" \"${workspaceFolder}/main.c\" && avr-objcopy -O ihex -R .eeprom \"${workspaceFolder}/main.elf\" \"${workspaceFolder}/main.hex\"",
+      "problemMatcher": ["$gcc"],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "group": "build"
+    }
+  ]
+}

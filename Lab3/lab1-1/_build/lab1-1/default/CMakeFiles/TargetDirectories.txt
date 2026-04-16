@@ -1,0 +1,4 @@
+/home/abdosalah/Abdos/Embedded_AVR/Lab3/lab1-1/_build/lab1-1/default/CMakeFiles/lab1_1_default_default_AVR_GCC_compile.dir
+/home/abdosalah/Abdos/Embedded_AVR/Lab3/lab1-1/_build/lab1-1/default/CMakeFiles/lab1_1_default_image_paLYLTi3.dir
+/home/abdosalah/Abdos/Embedded_AVR/Lab3/lab1-1/_build/lab1-1/default/CMakeFiles/edit_cache.dir
+/home/abdosalah/Abdos/Embedded_AVR/Lab3/lab1-1/_build/lab1-1/default/CMakeFiles/rebuild_cache.dir
